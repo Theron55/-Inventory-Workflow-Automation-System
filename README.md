@@ -3,11 +3,11 @@ A full-stack web application for managing retail inventory and order fulfillment
 
 🚀 Features
 
-Inventory Management
+* **Inventory Management**
 
-Add, update, and delete products
+ *Add, update, and delete products
 
-Track stock quantities in real time
+ *Track stock quantities in real time
 
 Order Fulfillment
 
