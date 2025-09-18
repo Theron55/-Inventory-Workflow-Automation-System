@@ -37,4 +37,22 @@ A full-stack web application for managing retail inventory and order fulfillment
 ```bash
 git clone https://github.com/YOUR_USERNAME/inventory-automation.git
 cd inventory-automation
-
+```
+### 2. Backend Setup
+```bash
+cd backend
+python -m venv venv
+source venv/bin/activate   # On Windows: venv\Scripts\activate
+pip install -r requirements.txt
+flask run
+```
+### 3. Frontend Setup
+```bash
+cd frontend
+npm install
+npm start
+```
+### 4. Database Setup
+```sql
+CREATE DATABASE inventory_db;
+```
