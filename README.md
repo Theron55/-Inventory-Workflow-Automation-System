@@ -3,7 +3,7 @@ A full-stack web application for managing retail inventory and order fulfillment
 
 🚀 Features
 
-* **Inventory Management**
+**Inventory Management**
 
  *Add, update, and delete products
 
